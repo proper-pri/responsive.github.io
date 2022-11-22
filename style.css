@@ -1282,6 +1282,11 @@ footer .copyright {
         width: 100%;
 
     }
+     #prodetails .single-pro-details {
+        max-width: 100%;
+        padding-top: 30px;
+        text-align: justify;
+    }
 
     /* Blog page */
     #blog {
